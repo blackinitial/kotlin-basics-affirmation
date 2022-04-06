@@ -3,6 +3,7 @@ Learn how to efficiently display a list of text in a RecyclerView and understand
 
 - [x] Setting up the list of data
 - [x] Adding a RecyclerView to your app
+- [x] Make List Card
 
 ## TRAINING > ANDROID BASICS IN KOTLIN > LAYOUTS > SCROLLABLE LISTS
 https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3
